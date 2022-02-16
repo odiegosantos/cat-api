@@ -1,0 +1,28 @@
+body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+  padding: 0;
+}
+img {
+  height: 70vh;
+	border-radius: 2rem;
+  box-shadow: .1em .1em 3em;
+}
+main {
+	text-align: center;
+}
+.btn {
+  margin: 1rem;
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #fff;
+  background-color: #517592;
+  border: 0;
+  border-radius: 2rem;
+	cursor: pointer;
+	transition: all 0.3s;
+}
